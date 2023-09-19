@@ -1,0 +1,15 @@
+C:\Development\Interview\MewsGit\developers\jobs\Backend\KieronRow.ExchangeRateUpdater.Domain\bin\Debug\net6.0\KieronRow.ExchangeRateUpdater.deps.json
+C:\Development\Interview\MewsGit\developers\jobs\Backend\KieronRow.ExchangeRateUpdater.Domain\bin\Debug\net6.0\KieronRow.ExchangeRateUpdater.dll
+C:\Development\Interview\MewsGit\developers\jobs\Backend\KieronRow.ExchangeRateUpdater.Domain\bin\Debug\net6.0\KieronRow.ExchangeRateUpdater.pdb
+C:\Development\Interview\MewsGit\developers\jobs\Backend\KieronRow.ExchangeRateUpdater.Domain\bin\Debug\net6.0\ExchangeRateUpdater.Repository.dll
+C:\Development\Interview\MewsGit\developers\jobs\Backend\KieronRow.ExchangeRateUpdater.Domain\bin\Debug\net6.0\ExchangeRateUpdater.Repository.pdb
+C:\Development\Interview\MewsGit\developers\jobs\Backend\KieronRow.ExchangeRateUpdater.Domain\obj\Debug\net6.0\KieronRow.ExchangeRateUpdater.csproj.AssemblyReference.cache
+C:\Development\Interview\MewsGit\developers\jobs\Backend\KieronRow.ExchangeRateUpdater.Domain\obj\Debug\net6.0\KieronRow.ExchangeRateUpdater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Interview\MewsGit\developers\jobs\Backend\KieronRow.ExchangeRateUpdater.Domain\obj\Debug\net6.0\KieronRow.ExchangeRateUpdater.AssemblyInfoInputs.cache
+C:\Development\Interview\MewsGit\developers\jobs\Backend\KieronRow.ExchangeRateUpdater.Domain\obj\Debug\net6.0\KieronRow.ExchangeRateUpdater.AssemblyInfo.cs
+C:\Development\Interview\MewsGit\developers\jobs\Backend\KieronRow.ExchangeRateUpdater.Domain\obj\Debug\net6.0\KieronRow.ExchangeRateUpdater.csproj.CoreCompileInputs.cache
+C:\Development\Interview\MewsGit\developers\jobs\Backend\KieronRow.ExchangeRateUpdater.Domain\obj\Debug\net6.0\KieronRow.ExchangeRateUpdater.csproj.CopyComplete
+C:\Development\Interview\MewsGit\developers\jobs\Backend\KieronRow.ExchangeRateUpdater.Domain\obj\Debug\net6.0\KieronRow.ExchangeRateUpdater.dll
+C:\Development\Interview\MewsGit\developers\jobs\Backend\KieronRow.ExchangeRateUpdater.Domain\obj\Debug\net6.0\refint\KieronRow.ExchangeRateUpdater.dll
+C:\Development\Interview\MewsGit\developers\jobs\Backend\KieronRow.ExchangeRateUpdater.Domain\obj\Debug\net6.0\KieronRow.ExchangeRateUpdater.pdb
+C:\Development\Interview\MewsGit\developers\jobs\Backend\KieronRow.ExchangeRateUpdater.Domain\obj\Debug\net6.0\ref\KieronRow.ExchangeRateUpdater.dll

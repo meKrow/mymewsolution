@@ -1,0 +1,12 @@
+C:\Development\Interview\MewsGit\KieronRowSolution\KieronRow.ExchangeRateUpdater.Repository\bin\Debug\net6.0\KieronRow.ExchangeRateUpdater.Repository.deps.json
+C:\Development\Interview\MewsGit\KieronRowSolution\KieronRow.ExchangeRateUpdater.Repository\bin\Debug\net6.0\KieronRow.ExchangeRateUpdater.Repository.dll
+C:\Development\Interview\MewsGit\KieronRowSolution\KieronRow.ExchangeRateUpdater.Repository\bin\Debug\net6.0\KieronRow.ExchangeRateUpdater.Repository.pdb
+C:\Development\Interview\MewsGit\KieronRowSolution\KieronRow.ExchangeRateUpdater.Repository\obj\Debug\net6.0\KieronRow.ExchangeRateUpdater.Repository.csproj.AssemblyReference.cache
+C:\Development\Interview\MewsGit\KieronRowSolution\KieronRow.ExchangeRateUpdater.Repository\obj\Debug\net6.0\KieronRow.ExchangeRateUpdater.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Interview\MewsGit\KieronRowSolution\KieronRow.ExchangeRateUpdater.Repository\obj\Debug\net6.0\KieronRow.ExchangeRateUpdater.Repository.AssemblyInfoInputs.cache
+C:\Development\Interview\MewsGit\KieronRowSolution\KieronRow.ExchangeRateUpdater.Repository\obj\Debug\net6.0\KieronRow.ExchangeRateUpdater.Repository.AssemblyInfo.cs
+C:\Development\Interview\MewsGit\KieronRowSolution\KieronRow.ExchangeRateUpdater.Repository\obj\Debug\net6.0\KieronRow.ExchangeRateUpdater.Repository.csproj.CoreCompileInputs.cache
+C:\Development\Interview\MewsGit\KieronRowSolution\KieronRow.ExchangeRateUpdater.Repository\obj\Debug\net6.0\KieronRow.ExchangeRateUpdater.Repository.dll
+C:\Development\Interview\MewsGit\KieronRowSolution\KieronRow.ExchangeRateUpdater.Repository\obj\Debug\net6.0\refint\KieronRow.ExchangeRateUpdater.Repository.dll
+C:\Development\Interview\MewsGit\KieronRowSolution\KieronRow.ExchangeRateUpdater.Repository\obj\Debug\net6.0\KieronRow.ExchangeRateUpdater.Repository.pdb
+C:\Development\Interview\MewsGit\KieronRowSolution\KieronRow.ExchangeRateUpdater.Repository\obj\Debug\net6.0\ref\KieronRow.ExchangeRateUpdater.Repository.dll
